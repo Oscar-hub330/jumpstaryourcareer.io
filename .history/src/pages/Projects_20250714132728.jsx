@@ -18,9 +18,9 @@ import ContractSigning3 from "../assets/contractsigning3.jpg";
 import Graduates1 from "../assets/graduates1.jpg";
 import Graduates2 from "../assets/graduates2.jpg";
 import Graduates3 from "../assets/graduates3.jpg";
-import Entrepreneurship1 from "../assets/Entrepreneurship1.jpg";
-import Entrepreneurship2 from "../assets/Entrepreneurship2.jpg";
-import Entrepreneurship3 from "../assets/Entrepreneurship3.jpg";
+import Entrepreneurship from "../assets/entrepreneurship.jpg";
+import Entrepreneurship2 from "../assets/entrepreneurship2.jpg";
+import Entrepreneurship3 from "../assets/entrepreneurship3.jpg";
 import PoultryProgramme from "../assets/poultryprogramme.jpg";
 import Poultry6 from "../assets/poultry6.jpg";
 import PoultryProgramme2 from "../assets/poultryprogramme2.jpg";
@@ -54,7 +54,7 @@ const projects = [
     endDate: "Ongoing",
     description:
       "Empowering rural youth and graduates with the skills to build and sustain businesses. Participants receive mentorship, startup toolkits, and links to funding opportunities.",
-    images: [Entrepreneurship1, Entrepreneurship2, Entrepreneurship3],
+    images: [Entrepreneurship, Entrepreneurship2, Entrepreneurship3],
   },
   {
     title: "Poultry Production Programme",
